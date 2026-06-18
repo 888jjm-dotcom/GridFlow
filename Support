@@ -1,1 +1,20 @@
+If you are experiencing issues, need help using the app, or want to request a feature, please reach out to us.
+
+Contact Us
+
+Email: 888jjm@gmail.com
+
+Response Time: We aim to respond to all inquiries within 48 hours.
+
+Frequently Asked Questions
+
+My table didn't extract correctly. What should I do?
+Open the Advanced Controls in the sidebar, disable "Adaptive Row Tolerance", and manually adjust the slider until the grid aligns with your data.
+
+Is my data sent to a server?
+No. All Vision processing happens securely and locally on your Apple device.
+
+How do I export my data?
+Once you have extracted your rows, click the "Export Data to CSV" button in the sidebar to save the file locally to your machine.
+
 
